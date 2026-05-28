@@ -1,4 +1,4 @@
-# SQL Sales Analysis Project & Power BI dashboard 
+# SQL Sales Analysis Project & Power BI Dashboard 
 
 ## Overview and Project Update
 
@@ -22,8 +22,8 @@ Recent improvements include:
 The analysis answers four main questions:
 
 1. How did sales, customers and quantity sold evolve over time between 2011 and 2013?
-2. Which products generated the most revenue?
-3. Which products generated the highest margin?
+2. Which product models generated the most revenue?
+3. Which product models generated the highest margin?
 4. How did product performance evolve month over month across products and categories?
 
 ---
